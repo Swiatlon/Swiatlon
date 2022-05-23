@@ -39,6 +39,5 @@
 ![IMG](https://github-readme-stats.vercel.app/api?username=IWiercik&show_icons=true&theme=tokyonight)
 
 ## **Actual project im working on:**
-</br>
 
 ### [Learnign-Words-APP](https://github.com/IWiercik/learning-words-project) ###
