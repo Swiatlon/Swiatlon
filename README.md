@@ -40,4 +40,4 @@
 
 ## **Actual project im working on:**
 
-### [Learnign-Words-APP](https://github.com/IWiercik/learning-words-project) ###
+### [Learning-Words-APP](https://github.com/IWiercik/learning-words-project) ###
