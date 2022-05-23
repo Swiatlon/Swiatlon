@@ -1,4 +1,4 @@
-<div style="background:#000000; padding-bottom:20px; margin:0;">
+<!-- <div style="background:#000000; padding-bottom:20px; margin:0;">
     <img src="images/header.png">
     <img src="https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=1920&height=100&lines=I'am+currently+looking+for+hire!%F0%9F%98%83+">
     <p style="text-align:center; color:#36BCF7FF; font-weight:bold ;font-size:22px; padding:10px;">I gained knowledge about</p>
@@ -18,4 +18,27 @@
     <p style="text-align:center; color:#36BCF7FF; font-weight:bold ;font-size:22px; padding:10px;">Actual project im working on: </br>
     <a href="https://github.com/IWiercik/learning-words-project">Learning-Word-APP</a>
     </p>
-</div>
+</div> -->
+
+![HEADER](images/header.png)
+![TEXT](https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=1920&height=100&lines=I'am+currently+looking+for+hire!%F0%9F%98%83+)
+## **I gained knowledge about**
+</br>
+
+![IMG](images/css.png)
+![IMG](images/firebase.png)
+![IMG](images/html.png)
+![IMG](images/react.png)
+![IMG](images/php.png)
+![IMG](images/javascript.png)
+![IMG](images/sass.png)
+
+## **How my year was looking**
+</br>
+
+![IMG](https://github-readme-stats.vercel.app/api?username=IWiercik&show_icons=true&theme=tokyonight)
+
+## **Actual project im working on:**
+</br>
+
+### [Learnign-Words-APP](https://github.com/IWiercik/learning-words-project) ###
