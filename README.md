@@ -17,4 +17,4 @@
 
 ## **Actual project im working on:**
 
-### [Learning-Words-APP](https://github.com/IWiercik/learning-words-project) ###
+### [Financial-List-APP](https://github.com/IWiercik/Financial-List-APP) ###
