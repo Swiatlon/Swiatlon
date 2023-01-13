@@ -15,6 +15,8 @@
 
 ![IMG](https://github-readme-stats.vercel.app/api?username=IWiercik&show_icons=true&theme=tokyonight)
 
-## **Actual project im working on:**
+## **Actual projects im working on:**
 
 ### [Financial-List-APP](https://github.com/IWiercik/Financial-List-APP) ###
+### [Math-Learning-Page](https://github.com/IWiercik/Math-University) ###
+### [Advent-Of-Code](https://github.com/IWiercik/AdventOfCode) ###
