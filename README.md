@@ -13,10 +13,10 @@
 ## **How my year was looking**
 </br>
 
-![IMG](https://github-readme-stats.vercel.app/api?username=IWiercik&show_icons=true&theme=tokyonight)
+![IMG](https://github-readme-stats.vercel.app/api?username=Swiatlon&show_icons=true&theme=tokyonight)
 
 ## **Actual projects im working on:**
 
-### [Financial-List-APP](https://github.com/IWiercik/Financial-List-APP) ###
-### [Math-Learning-Page](https://github.com/IWiercik/Math-University) ###
-### [Advent-Of-Code](https://github.com/IWiercik/AdventOfCode) ###
+### [Financial-Checker-APP](https://github.com/Swiatlon/FinancialChecker) ###
+### [Math-Learning-Page](https://github.com/Swiatlon/Math-University) ###
+### [Advent-Of-Code](https://github.com/Swiatlon/AdventOfCode) ###
