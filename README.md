@@ -17,4 +17,5 @@
 
 ## **Actual project im working on:**
 
-### [Financial-Checker-APP](https://github.com/Swiatlon/FinancialChecker) ###
+### [University-BN] (https://github.com/Swiatlon/University-BN) ###
+### [University-FN] (https://github.com/Swiatlon/University-FN) ###
