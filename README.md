@@ -1,5 +1,5 @@
 ![HEADER](images/header.png)
-![TEXT](https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=1920&height=100&lines=I've+got+my+first+job%F0%9F%98%83+)
+![TEXT](https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=1920&height=100&lines=Hi!%F0%9F%98%83+)
 ## **I gained knowledge about**
 </br>
 
