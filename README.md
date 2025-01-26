@@ -17,6 +17,5 @@
 
 ## **Actual project im working on:**
 
-### [University-FN] (https://github.com/Swiatlon/University-FN) ###
-### [University-BN] (https://github.com/Swiatlon/University-BN) ###
+### [GoodieHabbi] (https://github.com/Swiatlon/GoodieHabbi.git) ###
 
