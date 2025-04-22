@@ -1,8 +1,8 @@
 # 💻 Swiatlon - App Developer Portfolio
 
 ![HEADER](images/header.png)
-
-Welcome! Here's a breakdown of my tech stack and real-world projects that demonstrate my experience.
+![TEXT](https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&width=1920&height=100&lines=Hi!%F0%9F%98%83+)
+Here's a breakdown of my tech stack and real-world projects that demonstrate my experience.
 
 ---
 
@@ -11,41 +11,41 @@ Welcome! Here's a breakdown of my tech stack and real-world projects that demons
 | **Skill Group**           | **Skill**           | **Projects**                                        | **Confidence Level**    |
 |---------------------------|---------------------|-----------------------------------------------------|-------------------------|
 | **Frontend Development**  | React               | [University-FN](https://github.com/Swiatlon/University-FN) | 🟢🔵 Very Good |
-|                           | React Native        | [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢 Medium |
-|                           | Next.js             | [3D Portfolio](https://portfolio-swiatlons-projects.vercel.app/) | 🟢 Medium  |
+|                           | React Native        | [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢 Good |
+|                           | Next.js             | [3D Portfolio](https://portfolio-swiatlons-projects.vercel.app/), [InventoryAssistant-FN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/frontend) | 🔵 Medium  |
 |                           | Typescript          | [University-FN](https://github.com/Swiatlon/University-FN), [University-BN](https://github.com/Swiatlon/University-BN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
-|                           | Javascript          | [University-FN](https://github.com/Swiatlon/University-FN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
+|                           | Javascript          | [University-FN](https://github.com/Swiatlon/University-FN), [University-BN](https://github.com/Swiatlon/University-BN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
 |                           | Tailwind CSS        | [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi), [3D Portfolio](https://portfolio-swiatlons-projects.vercel.app/) | 🟢🔵 Very Good |
-|                           | Bootstrap           |-----------------------------------| 🟢 Medium |
-|                           | Material UI (MUI)   | [University-FN](https://github.com/Swiatlon/University-FN) | 🟢🔵 Very Good |
+|                           | Bootstrap           |-----------------------------------| 🟢🔵 Very Good |
+|                           | Material UI (MUI)   | [University-FN](https://github.com/Swiatlon/University-FN), [InventoryAssistant-FN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/frontend)  | 🟢🔵 Very Good |
 |                           | Storybook           |                                                     | ❌ Not Used |
-|                           | Web Animations      |                                                     | ❌ Not Used |
+|                           | Animations          | [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi), [InventoryAssistant-FN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/frontend) | 🟢 Good |
 |                           | Remix               |                                                     | ❌ Not Used |
 |                           | Angular             |                                                     | ❌ Not Used |
 |                           | Vue                 |                                                     | ❌ Not Used |
 | **State Management**      | Redux               | [University-FN](https://github.com/Swiatlon/University-FN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
 |                           | MobX                |                                                     | ❌ Not Used |
 |                           | Zustand             |                                                     | ❌ Not Used |
-| **Backend & Full Stack**  | Node.js             | [University-BN](https://github.com/Swiatlon/University-BN) | 🟢 Good |
-|                           | Nest.js             |                                                     | ❌ Not Used |
+| **Backend & Full Stack**  | Node.js             | [University-BN](https://github.com/Swiatlon/University-BN), [InventoryAssistant-BN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/backend) | 🟢 Good |
+|                           | Nest.js             | [InventoryAssistant-BN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/backend) | 🔵 Medium |
 |                           | Golang              |                                                     | ❌ Not Used |
 |                           | Medusa.js           |                                                     | ❌ Not Used |
 |                           | WebSocket           |                                                     | ❌ Not Used |
 |                           | RabbitMQ            |                                                     | ❌ Not Used |
-|                           | MongoDB             |                                                     | ❌ Not Used |
-|                           | NoSQL               |                                                     | ❌ Not Used |
-|                           | Prisma              |                                                     | 🟢 Medium  |
-|                           | Express             | [University-BN](https://github.com/Swiatlon/University-BN) | 🟢 Good |
-|                           | ORM                 | [University-BN](https://github.com/Swiatlon/University-BN) | 🟢 Good |
+|                           | MongoDB             | [InventoryAssistant-BN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/backend)  | 🔵 Medium |
+|                           | NoSQL               | [InventoryAssistant-BN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/backend)  | 🔵 Medium |
+|                           | Prisma              |  ----------------------------------- | 🔵 Medium  |
+|                           | Express             | [University-BN](https://github.com/Swiatlon/University-BN) | 🟢🔵 Very Good |
+|                           | ORM (Mostly TypeORM)| [University-BN](https://github.com/Swiatlon/University-BN), [InventoryAssistant-BN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/backend) | 🟢🔵 Very Good |
 | **Cloud & DevOps**        | AWS                 |                                                     | ❌ Not Used |
 |                           | AWS Lambda          |                                                     | ❌ Not Used |
 |                           | GCP                 |                                                     | ❌ Not Used |
 |                           | CI/CD               | [University-FN](https://github.com/Swiatlon/University-FN) | 🟢 Good |
-|                           | Git                 |                                                     | 🟢🔵 Very Good |
-| **Tooling / AI / Productivity** | Cursor         |                                                    | 🟢 Good |
+|                           | Git                 | -----------------------------------  | 🟢🔵 Very Good |
+| **Tooling / AI / Productivity** | Cursor         |  -----------------------------------  | 🟢 Good |
 |                           | Windsurf            |                                                     | ❌ Not Used |
 |                           | Copilot             |                                                     | ❌ Not Used |
-|                           | AI                  |                                                     | 🟢 Good |
+|                           | AI                  | -----------------------------------  | 🟢 Good |
 | **E-commerce / CMS**      | Shopify             |                                                     | ❌ Not Used |
 |                           | WordPress           |                                                     | ❌ Not Used |
 |                           | Bloomreach          |                                                     | ❌ Not Used |
@@ -58,6 +58,8 @@ Welcome! Here's a breakdown of my tech stack and real-world projects that demons
 |                           | Google Tag Manager  |                                                     | ❌ Not Used |
 | **APIs & Data Layer**     | GraphQL             |                                                     | ❌ Not Used |
 |                           | Apollo              |                                                     | ❌ Not Used |
+|                           | Redux Toolkit       | [University-FN](https://github.com/Swiatlon/University-FN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
+|                           | React Query         | [InventoryAssistant-FN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/frontend) | 🔵 Medium |
 | **Web3 & Blockchain**     | Ethereum            |                                                     | ❌ Not Used |
 |                           | Web3 + Blockchain   |                                                     | ❌ Not Used |
 | **Testing / QA**          | Cypress             | [University-FN](https://github.com/Swiatlon/University-FN) | 🟢🔵 Very Good |
