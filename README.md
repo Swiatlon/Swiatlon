@@ -16,9 +16,9 @@ Here's a breakdown of my tech stack and real-world projects that demonstrate my 
 |                           | Typescript          | [University-FN](https://github.com/Swiatlon/University-FN), [University-BN](https://github.com/Swiatlon/University-BN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
 |                           | Javascript          | [University-FN](https://github.com/Swiatlon/University-FN), [University-BN](https://github.com/Swiatlon/University-BN), [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi) | 🟢🔵 Very Good |
 |                           | Tailwind CSS        | [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi), [3D Portfolio](https://portfolio-swiatlons-projects.vercel.app/) | 🟢🔵 Very Good |
-|                           | Bootstrap           |-----------------------------------| 🟢🔵 Very Good |
+|                           | Bootstrap           |-------------------------------------------------  | 🟢🔵 Very Good |
 |                           | Material UI (MUI)   | [University-FN](https://github.com/Swiatlon/University-FN), [InventoryAssistant-FN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/frontend)  | 🟢🔵 Very Good |
-|                           | Storybook           |                                                     | ❌ Not Used |
+|                           | Storybook           |  -------------------------------------------------  | 🟢 Good |
 |                           | Animations          | [GoodieHabbi](https://github.com/Swiatlon/GoodieHabbi), [InventoryAssistant-FN](https://github.com/Swiatlon/Inventory-Assistant/tree/master/frontend) | 🟢 Good |
 |                           | Remix               |                                                     | ❌ Not Used |
 |                           | Angular             |                                                     | ❌ Not Used |
